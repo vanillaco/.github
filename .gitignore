@@ -1,0 +1,22 @@
+# macOS clutter
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Development & OS leftovers
+.vscdb
+.history/
+*.log
+Thumbs.db
+
+# Python / CPython artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
